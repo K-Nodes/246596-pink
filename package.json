@@ -1,0 +1,23 @@
+{
+  "name": "pink",
+  "version": "13.0.0",
+  "private": true,
+  "description": "Личный проект «Пинк» от HTML Academy",
+  "devDependencies": {
+    "@htmlacademy/editorconfig-cli": "1.x",
+    "stylelint": "8.4.x",
+    "stylelint-config-htmlacademy": "0.1.x"
+  },
+  "scripts": {
+    "editorconfig": "editorconfig-cli",
+    "stylelint": "stylelint .",
+    "test": "npm run editorconfig"
+  },
+  "editorconfig-cli": [
+    "*.json",
+    "source/*.html"
+  ],
+  "engines": {
+    "node": "8.9"
+  }
+}
