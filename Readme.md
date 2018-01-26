@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Андрей Кобызкий](https://up.htmlacademy.ru/adaptive/13/user/246596).
-* Наставник: `Неизвестно`.
+* Наставник: `Нет у меня наставника`.
 
 ---
 
